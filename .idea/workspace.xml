@@ -1,13 +1,284 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e72855-07d0-4de1-ac57-1c17bda36201" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/.idea/apiserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/dbConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/@types/babel-types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/@types/babel-types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/@types/babel-types/ts3.6/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/@types/babylon/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/@types/babylon/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/cookie-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/cookie-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/cors/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/cors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/debug/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/debug/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/debug/src/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/debug/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/debug/src/inspector-log.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/debug/src/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/check/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/filter/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/base.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/context-handler-impl.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/context-handler.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/context-runner-impl.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/context-runner.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/sanitization-chain.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/sanitizers-impl.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/sanitizers.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/validation-chain.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/validators-impl.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/chain/validators.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-builder.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-items/bail.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-items/chain-condition.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-items/context-item.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-items/custom-condition.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-items/custom-validation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-items/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-items/sanitization.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context-items/standard-validation.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/context.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/matched-data.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/middlewares/check.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/middlewares/one-of.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/middlewares/sanitization-chain-builders.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/middlewares/sanitize.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/middlewares/schema.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/middlewares/validation-chain-builders.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/options.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/select-fields.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express-validator/src/validation-result.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/express.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/middleware/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/middleware/query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/router/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/router/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/lib/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/http-errors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/http-errors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/morgan/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/morgan/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/Connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/ConnectionConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/Pool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/PoolCluster.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/PoolConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/PoolConnection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/PoolNamespace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/PoolSelector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/BufferList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/PacketHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/PacketWriter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/Parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/Protocol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/ResultSet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/SqlString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/Timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/constants/charsets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/constants/client.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/constants/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/constants/field_flags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/constants/server_status.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/constants/ssl_profiles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/constants/types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/AuthSwitchRequestPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/AuthSwitchResponsePacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/ClientAuthenticationPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/ComChangeUserPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/ComPingPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/ComQueryPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/ComQuitPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/ComStatisticsPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/EmptyPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/EofPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/ErrorPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/Field.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/FieldPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/HandshakeInitializationPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/LocalDataFilePacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/LocalInfileRequestPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/OkPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/OldPasswordPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/ResultSetHeaderPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/RowDataPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/SSLRequestPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/StatisticsPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/UseOldPasswordPacket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/packets/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/sequences/ChangeUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/sequences/Handshake.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/sequences/Ping.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/sequences/Query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/sequences/Quit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/sequences/Sequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/sequences/Statistics.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/lib/protocol/sequences/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/mysql/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/dynamicscript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/each.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/extend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/includes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/includes/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/layout-debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/mixins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/rss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/examples/whitespace.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/pug/support/benchmark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/sqlstring/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/sqlstring/lib/SqlString.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/node_modules/sqlstring/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/routes/v1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/routes/v1/movies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/routes/v1/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/routes/v1/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/views/error.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/views/index.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiserver/views/layout.pug" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/LoginProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Movies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/QueueRented.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/auth.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1lbL2WhfLVsKQ6edQ5FtZGyv7xh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/cmd/git.exe" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e72855-07d0-4de1-ac57-1c17bda36201" name="Default Changelist" comment="" />
+      <created>1607860636674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607860636674</updated>
+      <workItem from="1607860638411" duration="45838000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
